@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[208],{4566:function(e,l,a){a.r(l);var u=a(7294),c=a(649);l.default=()=>u.createElement(c.default,null)}}]);
+//# sourceMappingURL=component---src-pages-giovannisconstructionandrestoration-index-tsx-8478d694e1b48d7629c8.js.map
